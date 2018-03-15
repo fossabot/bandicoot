@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyvesalexandre%2Fbandicoot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyvesalexandre%2Fbandicoot?ref=badge_shield)
+
 =========
 bandicoot
 =========
@@ -65,3 +67,6 @@ Documentation
 -------------
 
 The official documentation is hosted on http://bandicoot.mit.edu/docs. It includes a quickstart tutorial, a detailed reference for all functions, and guides on how to use and extend bandicoot. You can also check out our `interactive training notebooks <https://github.com/yvesalexandre/bandicoot-training>`_ to learn how to download your own data from your mobile phone and load it into bandicoot to visualize it or to learn how to use bandicoot indicators in *scikit-learn*.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyvesalexandre%2Fbandicoot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyvesalexandre%2Fbandicoot?ref=badge_large)
